@@ -1,6 +1,6 @@
 # Grid-responsive-Challenge
 
-Finland ihas just joined NATO and is expecting an influx of turism. All those people will browsing the website with their mobile phones, it needs a responsive update! 
+Finland has just joined NATO and is expecting an influx of tourism. All those people will browsing the website with their mobile phones, it needs a responsive update! 
 
 Take a look at the design mock ups. Your job is to recreate these. 
 
